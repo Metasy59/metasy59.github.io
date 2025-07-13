@@ -1,4 +1,4 @@
-# 🎶 Chris and Friends au Mandé – Setlist
+# 🎶 Chris and Friends au Mandé – Liste des chansons 
 
 | #  | Titre                              | Artiste                        |
 |----|------------------------------------|--------------------------------|
