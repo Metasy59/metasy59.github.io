@@ -31,17 +31,3 @@
 | 27 | Faut que j’me tire ailleurs        | Bill Deraime                   |
 | 28 | Pour oublier                       | Kendji Girac                   |
 | 29 | No More Trouble                    | Bob Marley                     |
-
----
-
-# 🎤 Paroles
-
-## 1. September – Earth, Wind & Fire  
-> “Do you remember / The 21st night of September?”  
-[Voir paroles complètes](https://www.paroles2chansons.com/paroles-earth-wind-and-fire/paroles-september.html)
-
-## 28. Pour oublier – Kendji Girac  
-> “On ira faire la fête / On ira faire les rois…”  
-[Voir paroles complètes](https://www.paroles.net/kendji-girac/paroles-pour-oublier)
-
-*…Ajoute les autres ici au fur et à mesure !*
